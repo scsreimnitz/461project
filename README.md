@@ -1,0 +1,3 @@
+# 461project
+
+Hopefully this is the file format you were expecting, because after hours of looking how to upload a database to github all I could try to do is manually uploading a backup file to github. I used Postgresql for this project. I think to execute this code, you must restore a database with this file? The restore button on pgAdmin does nothing for me so I am unable to figure out how to load a database with this file. If all else fails, I have provided you with a zip file on blackboard, that contains the functions I implemented, the create table query, and a link to the .csv file with the table information. 
